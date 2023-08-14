@@ -1,0 +1,212 @@
+body {
+    font-family: sans-serif;
+    color: #252525;
+}
+a {color: #252525;
+    text-decoration:none;
+
+}  
+
+.active{
+    color: #5dc6b0;
+}
+
+.docplanner-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+    
+}
+.introduction{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.introduction-logo{
+    width: 50px;
+    height:50px ;
+   
+}
+.introduction-title{
+    color: #5dc6b0;
+}
+
+
+.introduction-texte{
+display: flex;
+}
+.introduction-parqgraphe{
+    margin: 10px;
+}
+    
+
+
+.service{
+    display: flex;
+    padding: 20px;
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.service-card{
+    padding: 20px;
+
+
+    color:white;
+    
+}
+
+ .service-carde-patient{
+    background: #5dc6b0;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 15px;
+    height: 300px;
+    width: auto;
+   
+    
+    
+ }
+ .service-carde-medecin{
+    background: #3d83df;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 15px;
+    height: 300px;
+    width: auto;
+ 
+
+    
+ }
+ .service-carde-clinique{
+    background: #1b2734;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 15px;
+    height: 300px;
+    width: auto;
+   
+
+ }
+.text{
+    display: flex;
+    color: #5dc6b0;
+    font-size: 30px;
+    padding: 50px;
+
+}
+    
+ .nicola{
+   
+    display: inline;
+
+
+ }
+ .tmp {
+    display: inline;
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+    margin-left: 100px;
+   
+
+
+    
+ }
+ 
+.fulgence {
+  font-size: 20px;
+  padding: 40px;
+font-size: 30px;
+
+  
+    
+}
+
+.sec{
+    display: flex;
+    width: 500%;
+    background-color: #dcf8f7
+    
+}
+
+.div{
+    display: flex;
+    padding: 70px;
+}
+
+.hp1,.h2{
+    
+    align-items: center;
+    text-align: center;
+    justify-content:center ;
+    padding: 20px;
+    margin: 15px;
+    height: 200px;
+    width: 200px;
+    background-color:#fff;
+    border-radius: 8px;
+}
+.nice{
+    color: #00b39b;
+    font-size: 50px;
+}
+ .nico{
+    color:#5a7e79 ;
+    font-size: 20px;
+ }   
+
+ .fulgence img{
+    width: 500px;
+ }
+.h1{
+    color: #00b39b;
+}
+
+.p1{
+    font-size: 15px
+}
+.ni{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:100px;
+}
+.ni h1 {
+    color: #00b39b;
+    font-size: 40px;
+} 
+.non2{
+   margin: 10px;
+}
+.h4{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+    color: #333;
+    
+    
+}
+.part7 {
+    margin-top: 50px;
+    text-align: center;
+}
+.button{
+    padding: 10px;
+    text-align: center;
+    background-color: #3d83df;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border-style: none;
+}  
+.part7 h3 {
+    color: white;
+}
+
